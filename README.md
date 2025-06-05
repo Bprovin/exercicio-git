@@ -1,2 +1,2 @@
-# exercicio-git
-modificação direto no github
+# Exemplo de exercício Git
+Adição local.
